@@ -1,82 +1,82 @@
 #Android项目开发实战-4个实战项目7天学会Android经典教程
 
-1本课概要
+1.本课概要
 
 本课时针对课程内容进行简要讲解。
 
-2Android 系统概述
+2.Android 系统概述
 
 本课时介绍移动开发操作系统的发展历史，对Android的各个版本逐一回顾，简单讲解Android开发框架的构成，帮助大家快速了解Android体系的整体情况。
 
-3Android 开发环境搭建
+3.Android 开发环境搭建
 
 本课时学习如何搭建Android的开发环境。
 
-4Android第一个开发项目“Hello eoe”
+4.Android第一个开发项目“Hello eoe”
 
 本课时学习如何编写一个Android应用程序，通过这一课的学习，完成第一个Android应用的开发。
 
-5Android 四大核心组件之Activity(1)
+5.Android 四大核心组件之Activity(1)
 
 Activities是一个程序的组件之一，主要功能是提供界面。本课时介绍Android 四大核心组件之Activity的生命周期等内容。
 
-6Android 四大核心组件之Activity(2)
+6.Android 四大核心组件之Activity(2)
 
 Activities是一个程序的组件之一，主要功能是提供界面。本课时介绍Android 四大核心组件之Activity的生命周期等内容。
 
-7Android 四大核心组件之Service(1)
+7.Android 四大核心组件之Service(1)
 
 Android四大核心组件之Service与Activity不同，虽然看不到，但非常重要。本课时主要介绍Service的使用。
-8
-Android 四大核心组件之Service(2) 25:21
+
+8.Android 四大核心组件之Service(2)
 
 Android四大核心组件之Service与Activity不同，虽然看不到，但非常重要。本课时主要介绍Service的使用。
-9
-Android 四大核心组件之Broadcast Receiver 22:16
+
+9.Android 四大核心组件之Broadcast Receiver
 
 Broadcast是广播，和Android内的事件一样，它可以发出一个广播（事件），注册了该广播接收器（事件监听器）的所有组件都会接收到该广播，从而调用自己的响应方法（事件响应处理）。本课时主要介绍Broadcast Receiver的使用方法。
-10
-Android 四大核心组件之初识ContentProvider 12:00
+
+10.Android 四大核心组件之初识ContentProvider
 
 Content Provider是内容提供器，与内容（数据）的存取（存储、获取）有关，是Android应用程序的四大组成部分之一，是Android中的跨应用访问数据机制。本课时主要介绍Content Provider的使用方法。
-11
-Android应用核心之Intent(1) 19:00
+
+11.Android应用核心之Intent(1)
 
 Intent是同一个或不同的应用中的组件之间的消息传递的媒介，是一个将要执行动作的抽象描述，一般来说是作为参数来使用。 本课时主要介绍Intent的使用方法。
-12
-Android应用核心之Intent(2) 22:43
+
+12.Android应用核心之Intent(2) 
 
 Intent是同一个或不同的应用中的组件之间的消息传递的媒介，是一个将要执行动作的抽象描述，一般来说是作为参数来使用。 本课时主要介绍Intent的实现方法。
-13
-Android用户界面之布局 25:35
+
+13.Android用户界面之布局
 
 Android的界面是有布局和组件协同完成的，布局好比是建筑里的框架，而组件则相当于建筑里的砖瓦。组件按照布局的要求依次排列，就组成了用户所看见的界面。Android的五大布局分别是LinearLayout（线性布局）、FrameLayout（单帧布局）、RelativeLayout（相对布局）、AbsoluteLayout（绝对布局）和TableLayout（表格布局）。本课时讲解如何在Android中进行界面布局。
-14
-Android用户界面之常用控件ListView(1) 23:37
+
+14.Android用户界面之常用控件ListView(1)
 
 ListView是用来显示一个列表的控件，它在Android源代码中是继承AbsListView类的，AbsListView类是继承于AdapterView类的，而AdapterView类是继承ViewGroup类的。本课时主要介绍ListView的使用方法。
-15
-Android用户界面之常用控件ListView(2) 13:55
+
+15.Android用户界面之常用控件ListView(2) 
 
 ListView是用来显示一个列表的控件，它在Android源代码中是继承AbsListView类的，AbsListView类是继承于AdapterView类的，而AdapterView类是继承ViewGroup类的。本课时主要介绍ListView的使用方法。
-16
-Android用户界面之常用控件ListView(3) 28:14
+
+16.Android用户界面之常用控件ListView(3) 
 
 ListView是用来显示一个列表的控件，它在Android源代码中是继承AbsListView类的，AbsListView类是继承于AdapterView类的，而AdapterView类是继承ViewGroup类的。本课时主要介绍ListView的使用方法。
-17
-Android用户界面之常用控件RadioGroup 24:37
+
+17.Android用户界面之常用控件RadioGroup
 
 本课时介绍Android中如何使用RadioGroup和RadioButton，实现自定义的RadioGroup中被选中RadioButton的变更监听事件。
-18
-Android用户界面之常用控件CheckBox 14:28
+
+18.Android用户界面之常用控件CheckBox
 
 CheckBox是多项选择，允许用户用列表中选择一个或多个选项， 它在android源代码中是继承CompoundButton类的，而CompoundButton类是继承于Button类的。本课程课时介绍了CheckBox的使用方法。
-19
-Android用户界面之常用控件DatePicker 07:45
+
+19.Android用户界面之常用控件DatePicker
 
 DatePicker是一个选择年月日的日历控件。本课时主要介绍DatePicker的使用方法。
-20
-Android用户界面之常用控件TimePicker 08:52
+
+20.Android用户界面之常用控件TimePicker
 
 TimePicker概述：TimePicker也继承自FrameLayout类，时间选择控件向用户显示一天中的时间(可以为24小时，也可以为AM/PM制)，并允许用户进行选择，如果要捕获用户修改时间数据的事件，便需要为TimePicker添加 OnTimeChangedListener监听器。本课时讲解TimePicker的使用。
 21
